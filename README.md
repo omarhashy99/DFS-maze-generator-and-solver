@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project features a DFS maze generator and solver. To run the program, execute the '__init__.py' file. Each run of the program will result in the creation of a new maze.
+This project features a DFS maze generator and solver. To run the program, execute the '\_\_init\_\_.py' file. Each run of the program will result in the creation of a new maze.
 
 ## Usage
 
