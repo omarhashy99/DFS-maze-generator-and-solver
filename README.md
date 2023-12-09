@@ -6,7 +6,7 @@ This project features a DFS maze generator and solver. To run the program, execu
 
 ## Usage
 
-1. Run the '__init__.py' file.
+1. Run the '\_\_init\_\_.py' file.
 2. A new maze will be generated.
 3. Click on any blank point on the map.
 4. The program will initiate the maze-solving process and move the turtle to the selected point.
