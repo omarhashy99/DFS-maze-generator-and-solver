@@ -1,4 +1,4 @@
-# Redmi.mi - Professional DFS Maze Generator and Solver
+# Redmi.mi - DFS Maze Generator and Solver
 
 ## Introduction
 
